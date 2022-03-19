@@ -1,2 +1,2 @@
 version=1
-url=https://cdn-149.anonfiles.com/RcVecaPaxc/8ee8b0a3-1647607243/ORPlauncher.exe
+url=https://www.dropbox.com/s/gi7ioiwzrdobwwd/ORPlauncher.exe?dl=1
