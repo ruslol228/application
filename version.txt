@@ -1,2 +1,2 @@
-version=1
+version=2
 url=https://www.dropbox.com/s/gi7ioiwzrdobwwd/ORPlauncher.exe?dl=1
