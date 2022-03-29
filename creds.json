@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "orp-launcher-storage",
+  "private_key_id": "b8c2ae68f9fcf799c33f3a1f747f6e02344fd947",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDHROGQBdQTWRVZ\nCHoPmFHH3zZnjSKRgFO4qmS6nKxZ3GGCypAp8LuY08yaK6PaNoyi+V0t9kTu8DDD\nx4idcMtYLNdmdJqo4A11cA9zxWwHaREDwAkOmjXJNmyF7PVN69Z4c4xt723r9LE4\no6d3wzpoqmGz/iYBQAqN8DFOXjoSyrc26MdfhONrkya3rQ5prxRAIiM8+4ClK5Ms\n0nkRqt2My6QVYMNVKWIIb5+MvINFK6tQW+cHNN6QmQ91WFvnRAs6MgrmycqzTa5f\nmgmW4S0OrRBjvaEsbrFPx10pNhuvCgu/JUMsxnav0quNfYSWwlZbF6MV5Y0x69Lv\n8toTFtdNAgMBAAECggEAA9hD4+QA5girfUbJGCDvvwQDCDd0actIkkETZXhdaPR0\nGzJuWqjO7dF0Wqsp4612xDQ8hIUCanvO7RAeBi+ldMOUumDYlRaRm+j4G1s9TN1N\nmz1qz1HRZNr8eA8M4p6Ayl0sYfijLdDQVI/vzMNDDr7u2Kq4MAD80yVFxkXSKAeh\njeVJaaWNPTK/dJTRuhH+SXsqNgz3SUma/5rhpCJXpceLO+Aqr+dyF16eV0jF8rQx\nVj2UbaG5COcWDe4t/r4eNZha499XFaI0ChVBfsxRiOqGFS28o7ChFqJJNhzmLhbi\nqxD0usAL6FyInDbMy7iOY0n7UY4UbBmvi058L6jhbwKBgQDpY77eMbzINGeu2MvR\nmTNQKdxdIP38pjetWQU0GVaeCHW27v9L6xVtk1JW3RhSnLwL+qhAgFPNzoUD19qa\n9OT+2r0DczeU3yUT85+mRlXgT6pgsW4/58sZvXhesTguIlv/rk+21qwbU2AhQ+Lw\n/06Y3AeOaKTYOqvS3qLUig+gjwKBgQDakuri0KlBbaHFI/Yg/+ntsiuEeK1gt9Ab\nbzUtr1lAmxKbx9sgjF3ZxXH3n7nOK36yYPRmnE72g+a0dNowG7/uXez8EW/NXnna\nPL9BmHO/fRnEGmgdqgNLmVGOVL4ylnxLCbklJUGZvB4fpYj2FH70SnOqR/JC8voG\nJIogbphAYwKBgBmUfCQAUY+j5sVML7KuVuhvXh668fuSAEI4opBeQpcZmEVPlp2s\ni3GyFvE8VGEhmp65f11qc0T4YK3WJ7iaJMsmEFdjdnETsA2qwxHHXbwzHxpv+AR7\nFFCi6qF+TQkJbQnuAgCpML3h+oRK24HMicHJQ+7A22hzrcdz7WbcJvBTAoGACrnK\n7PZwV9WZaqMpINVuFUv49rc1Stm6TJ5YbbV9G76AW0SjbCV3NYiK3yvnYkagIQDA\n/YgOF+rBF3nkexfhg0D4sCXq5pkMQblZaU6h33O0H/trwIjnQH51khZ2fuUDlGsV\nuszpOzIQCF2HKww2bqZ4ppKBQOfLfSGt5YmHzyECgYEA6F5O2oBjAf45IHhN9XqW\n7kG7ZIcFcHu1f8B1o3kaKxtU9S5b5d52YxbLWMbE+DJzViRHi8Q5EG589lzLBofv\npxTgFZhPwDguZZrzQtqo9rMw6fttK3RIh4DFTzBDg2vyxzwuLzI72dUhIxPOmN6e\n7BwLVieoLBreZXyzNzex+w4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "orp-launcher-admin@orp-launcher-storage.iam.gserviceaccount.com",
+  "client_id": "113536888802067855046",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/orp-launcher-admin%40orp-launcher-storage.iam.gserviceaccount.com"
+}
