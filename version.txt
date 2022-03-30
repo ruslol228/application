@@ -1,2 +1,2 @@
-version=7
+version=8
 url=https://www.dropbox.com/s/gi7ioiwzrdobwwd/ORPlauncher.exe?dl=1
